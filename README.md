@@ -1,4 +1,4 @@
-# To-Do List | [Live View](https://shanedrasingh.github.io/To-Do-List-App/)
+# To-Do List | [Live View](https://to-do-list-web-app-beryl.vercel.app/)
 
 ## Description
 
@@ -45,8 +45,8 @@ This To-Do List App is a simple yet powerful tool for managing tasks. Built usin
 
 ## Author
 
-Shanedra Singh \
-LinkedIn: https://www.linkedin.com/in/shanedra-singh-47342821a/
+Akash Chandra Verma \
+LinkedIn: https://www.linkedin.com/in/akashchandraverma/
 
 ## Thank You
 
