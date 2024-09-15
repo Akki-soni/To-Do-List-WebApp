@@ -16,7 +16,7 @@ This To-Do List App is a simple yet powerful tool for managing tasks. Built usin
 1. **Clone the repository** to your local machine:
 
    ```bash
-   git clone https://github.com/ShanedraSingh/To-Do-List-App
+   git clone https://github.com/Akki-soni/To-Do-List-WebApp.git
 
 
    ```
