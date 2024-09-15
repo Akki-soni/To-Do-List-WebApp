@@ -48,7 +48,7 @@ This To-Do List App is a simple yet powerful tool for managing tasks. Built usin
 Akash Chandra Verma \
 LinkedIn: https://www.linkedin.com/in/akashchandraverma/
 
-## Thank You
+### Thank You
 
 Thank you for exploring the To-Do App! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
 
