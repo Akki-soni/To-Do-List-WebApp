@@ -59,7 +59,7 @@ open index.html
 
 ## 🌟 Screenshots
 
-![ToDoList_Screenshot](/images/NA_Screenshot.png)
+![ToDoList_Screenshot](/images/TDL_Screenshot.png)
 
 ## 🔗 Live Demo
 
