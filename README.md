@@ -21,10 +21,10 @@
 
 ## 🚀 Features
 
-- **_Add new notes with a title and content._**
-- **_Edit or delete existing notes._**
-- **_Notes are saved automatically in local storage._**
-- **_Responsive design for mobile and desktop use._**
+- **Add Tasks**: Easily add new tasks to your to-do list.
+- **Mark as Complete**: Click on tasks to mark them as completed.
+- **Delete Tasks**: Remove tasks that are no longer needed.
+- **Responsive Design**: Works well on desktop and mobile devices.
 
 ## 🛠️ Technologies Used
 
@@ -34,18 +34,17 @@
 
 ## 🚀 How to Use
 
-- **Add a Note**: Use the input fields to enter a title and content for your note, then click the "Add Note" button.
-- **View Notes**: The list of notes is displayed below the input fields.
-- **Edit a Note**: Click the "Edit" button on an existing note, update the title or content, and save the changes.
-- **Delete a Note**: Click the "Delete" button on an existing note to remove it from the list.
+- **Add a Task:** Type the task into the input field and press "Enter" or click the "Add" button.
+- **Mark as Complete:** Click on a task to mark it as complete.
+- **Delete a Task:** Click the delete icon next to a task to remove it from the list.
 
 ## 🚀 Project Setup
 
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <https://github.com/Akki-soni/Notes-App-main.git>
-cd Notes App
+git clone <https://github.com/Akki-soni/To-Do-List-WebApp.git>
+cd todo-list-app
 open index.html
 ```
 
@@ -57,16 +56,10 @@ open index.html
 └── script.js  # The JavaScript file for functionality
 ```
 
-## 🚀 Future Improvements
-
-- ***Add a search functionality to filter through notes.***
-- ***Implement categories or tags for notes organization.***
-- ***Sync notes with a backend server for cross-device access.***
-
 
 ## 🌟 Screenshots
 
-![StopWatch Screenshot](/images/NA_Screenshot.png)
+![ToDoList_Screenshot](/images/NA_Screenshot.png)
 
 ## 🔗 Live Demo
 
@@ -100,73 +93,3 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 Thank you for exploring the StopWatch! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Features
-
-- **Add Tasks**: Easily add new tasks to your to-do list.
-- **Mark as Complete**: Click on tasks to mark them as completed.
-- **Delete Tasks**: Remove tasks that are no longer needed.
-- **Responsive Design**: Works well on desktop and mobile devices.
-
-## Installation Instructions
-
-1. **Clone the repository** to your local machine:
-
-   ```bash
-   git clone https://github.com/Akki-soni/To-Do-List-WebApp.git
-
-
-   ```
-
-2. Navigate to the project directory
-   ```
-   cd todo-list-app
-   ```
-3. Open `index.html` in your web browser:
-   ```bash
-   open index.html
-   ```
-
-## Usage
-
-- Add a Task: Type the task into the input field and press "Enter" or click the "Add" button.
-
-- Mark as Complete: Click on a task to mark it as complete.
-- Delete a Task: Click the delete icon next to a task to remove it from the list.
-
