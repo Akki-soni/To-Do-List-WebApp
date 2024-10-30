@@ -28,9 +28,9 @@
 
 ## 🛠️ Technologies Used
 
-- **HTML**: Markup structure for the app.
-- **CSS**: Styling and layout of the app.
-- **JavaScript**: Functionality to add, edit, delete, and store notes using local storage.
+- **HTML**: Structuring the web page.
+- **CSS**: Styling the app.
+- **JavaScript**: Adding interactivity to the app.
 
 ## 🚀 How to Use
 
@@ -70,7 +70,7 @@ open index.html
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://notes-app-main-eight.vercel.app/)
+[View Live Demo](https://to-do-list-web-app-beryl.vercel.app/)
 
 ## 🤝 Contributing
 
@@ -137,16 +137,6 @@ Thank you for exploring the StopWatch! Your feedback is valuable. If you have an
 
 
 
-
-
-
-
-## Description
-
-
-
-To-Do List | [Live View](https://to-do-list-web-app-beryl.vercel.app/)
-
 ## Features
 
 - **Add Tasks**: Easily add new tasks to your to-do list.
@@ -180,19 +170,3 @@ To-Do List | [Live View](https://to-do-list-web-app-beryl.vercel.app/)
 - Mark as Complete: Click on a task to mark it as complete.
 - Delete a Task: Click the delete icon next to a task to remove it from the list.
 
-## Technologies
-
-- HTML: Structuring the web page.
-- CSS: Styling the app.
-- JavaScript: Adding interactivity to the app.
-
-## Author
-
-Akash Chandra Verma \
-LinkedIn: https://www.linkedin.com/in/akashchandraverma/
-
-### Thank You
-
-Thank you for exploring the To-Do App! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
-
----
