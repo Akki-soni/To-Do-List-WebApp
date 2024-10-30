@@ -88,7 +88,7 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
   <img src="/images/logoo.jpeg" alt="Icon" style="vertical-align:middle; width:50px; height:auto;">
 </a>
 
-## Thank You
+## Thank You &#10084;
 
 Thank you for exploring the StopWatch! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
 
